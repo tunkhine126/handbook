@@ -13,6 +13,8 @@ If you're just joining us, [start here.]
 
 * [Welcome](/welcome.md)
 * [The Monolith](/the-monolith.md)
+* [Project Workflow](/workflow.md)
+* [Resources](/resources.md)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
    [Welcome to the tech team.]: </welcome.md>
@@ -23,4 +25,4 @@ If you're just joining us, [start here.]
    [We educate others.]: <#we-educate-others>
    [We exist to serve.]: <#we-exist-to-serve>
     
-[//]: # (If you're reading this, welcome behind the veil. Since I started in 2016, New Story's team and vision has seen tremendous growth. The future looks brighter today than ever. The only way that continues to be true is when passionfilled, embolded people step up and focus on the work that matters most. -@morganjlopes _circa 2018_)
+[//]: # (If you're reading this, welcome behind the veil. Since I started in 2016, New Story's team and vision has seen tremendous growth. The future looks brighter today than ever. The only way that continues to be true is when passion filled, embolded people step up and focus on the work that matters most. If we have lost our way, congratulations! I nominate you to lead us back. - Godspeed, @morganjlopes (2018)
