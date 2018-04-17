@@ -12,8 +12,9 @@ If you're just joining us, [start here.]
 ## Sections
 
 * [Welcome](/welcome.md)
+* [The Team](/tech-team.md)
 * [The Monolith](/the-monolith.md)
-* [Project Workflow](/workflow.md)
+* [Workflow](/workflow.md)
 * [Resources](/resources.md)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
