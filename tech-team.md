@@ -65,9 +65,36 @@ Morgan J Lopes
 ## Shane Ardell
 **(2018-present)**  
 ### Why New Story?
+The people & the purpose.
+
+In fact, [I wrote an entire blog post about it](https://medium.com/p/2cf70d852114/edit).
+
 ### What excites you most about our vision?
+There are so many organizations out there trying to make an impact in the
+world. The thing I love the most about New Story is the "humble pursuit of
+excellence" philosophy. We aren't attached to the way we do things. Our
+processes are in place because we have well-thought out reasons for doing so,
+however if we get new data, feedback, or technologies that can do it better,
+we're all for it. Whatever best serves the families we hope to impact.
+
 ### Who has had the greated impacted your career in technology? Why?
+Definitely my husband. First and foremost, he is the one that believed I could
+do well as a programmer even when I didn't. He also mentored me (and still
+does). And he's a constant learner and helps keep me up to date. :-)
+
 ### What would you say to our next hire? 
+Celebrate small wins.
+
+Power through roadblocks.
+
+Take care of yourself.
+
+Work at a sustainable pace.
+
+Raise/escalate issues early, while they're still small.
+
+Remember that every small achievement behind the computer screen makes a
+difference in the real world for real people, not to line someone's pockets.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 [//]: # (### Why New Story?)
