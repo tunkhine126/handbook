@@ -13,7 +13,7 @@ _P.S. Feel free to maintain your own profile. It's part of your legacy at New St
 **(2014-present)**  
 ### Why New Story?
 ### What excites you most about our vision?
-### Who has had the greated impacted your career in technology? Why?
+### Who has had the greatest impacted your career in technology? Why?
 ### What would you say to our next hire? 
 
 ---
@@ -28,7 +28,7 @@ The most fulfilling work in life is that which is done in service to others. New
 ### What excites you most about our vision?
 Achieving it will require me and everyone involved to learn, grow, and stretch more than we even thought possible. The notion the a life lived in service to others will yield the greatest version of ourselves is a beautiful paradox that I'm excited to continue exploring.
 
-### Who has had the greated impacted your career in technology? Why?
+### Who has had the greatest impacted your career in technology? Why?
 _Jason Ardell._ His investment of time, energy, and encouragement is a debt I could never repay. Beyond teaching me how to think like an engineer, the leadership he modeled has impacted my life, my family, the teams I've helped build, those at New Story, and far beyond. His request has been simple, 'go and do likewise'.
 
 _John Rae._ One of the first few hires at [Polar Notion](https://polarnotion.com), John's tenacity and adaptability highlighted a chance for my work to mean more than just the software I wrote. Helping him become a software engineer reframed my efforts as a professional and challenged me to emulate the example that Jason shared by both teaching others and challenging them to do likewise.
@@ -55,7 +55,7 @@ Morgan J Lopes
 **(2016-present)**  
 ### Why New Story?
 ### What excites you most about our vision?
-### Who has had the greated impacted your career in technology? Why?
+### Who has had the greatest impacted your career in technology? Why?
 ### What would you say to our next hire? 
 
 ---
@@ -99,5 +99,5 @@ difference in the real world for real people, not to line someone's pockets.
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 [//]: # (### Why New Story?)
 [//]: # (### What excites you most about our vision?)
-[//]: # (### Who has had the greated impacted your career in technology? Why?)
+[//]: # (### Who has had the greatest impacted your career in technology? Why?)
 [//]: # (### What would you say to our next hire? )

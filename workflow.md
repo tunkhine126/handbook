@@ -87,14 +87,14 @@ There is a process for seeing a line of code from start to finish. Whether a con
     Manually testing changes is the final step before deployment to Production, ie [The Main Event].
 
 ### Production Deployment - The Main Event
-  The road to a production deployment is deliberate. Gone are deployments straights from a local environment. In favor of speed, reactiveness, and accounting for a single engineer, this worked in the early days. Of course 'worked' is relative considering the fact that breaking changes were regularly pushed to production and there was zero test coverage. As we've grown and matured as a team of engineers, we've come to embody one of [New Story Values](https://newstorycharity.org/vision/): Improve through learning and feedback.
+  The road to a production deployment is deliberate. Gone are deployments straight from a local environment. In favor of speed, reactiveness, and accounting for a single engineer, this worked in the early days. Of course 'worked' is relative considering the fact that breaking changes were regularly pushed to production and there was zero test coverage. As we've grown and matured as a team of engineers, we've come to embody one of [New Story Values](https://newstorycharity.org/vision/): Improve through learning and feedback.
 
-  Holding ourselves to an ever increasing standard of excellent, what got us to where we are today is not what will get us through the next season of growth. Production deployments are our culminating event. Like an artist at a debut, a musician on stage, or a parent on Christmas morning... we have poured our energy and passion into creating something worth sharing.
+  Holding ourselves to an ever increasing standard of excellence, what got us to where we are today is not what will get us through the next season of growth. Production deployments are our culminating event. Like an artist at a debut, a musician on stage, or a parent on Christmas morning... we have poured our energy and passion into creating something worth sharing.
 
   A few thoughts summarize Production deployments.
   - It is not a trivial occurrence.
-  - Team buyin and excitement is our responsibility.
-  - Everyone engineer owns and supports deployments.
+  - Team buy in and excitement is our responsibility.
+  - Every engineer owns and supports deployments.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
    [Pull Requests]: <#pull-requests>

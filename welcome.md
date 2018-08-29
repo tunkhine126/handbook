@@ -15,7 +15,7 @@ People like us do things like this…
 ## We solve problems.
 With 1.3 billion people living in survival mode, we combine form and function to solve real problems felt by real people. No problem is too great when the stakes are so high.
   
-Rather than focusing on scale of the problem, we entertain all viable solutions. When we look to the problem, it’s to increase our understanding and empathize with those effected. Our commitment to those in need is an expression of our own gratitude.
+Rather than focusing on the scale of the problem, we entertain all viable solutions. When we look at the problem, it’s to increase our understanding and empathize with those effected. Our commitment to those in need is an expression of our own gratitude.
   
 _**We are solution oriented.**_
 
@@ -37,7 +37,7 @@ _**We are thoughtful risk takers.**_
 
 
 ## We educate others.
-Protecting our team’s time, we intentionally introduce them to a deeper understanding of the resources are their disposal. It’s not their job to know, it’s our responsibility to teach them and advocate for their continued growth.
+Protecting our team’s time, we intentionally introduce them to a deeper understanding of the resources at their disposal. It’s not their job to know, it’s our responsibility to teach them and advocate for their continued growth.
 
 As technology continues to evolve, our ability to teach is linked to our willingness to expand our knowledge. Rather than waiting for it to find us, we seek more knowledge.
 
@@ -53,7 +53,7 @@ _**We are servants.**_
 
 ---------------------
 
-## Where to do from here.
+## Where to go from here.
 
 The journey ahead belongs to you even more than those who came before you. Convinced that our greatest work lies ahead, your role is more precious than we even realize. The future will require more of us all than we currently think possible.
 

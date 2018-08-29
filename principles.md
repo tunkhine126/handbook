@@ -3,7 +3,7 @@ Below are the principles we hold as a tech team. They shape every decision we ma
 
 Don't Make Me Think
 
-Optionated Software
+Opinionated Software
 
 Default No
 
@@ -13,4 +13,4 @@ Engineer Friendly Environment
 
 Test & Support Driven Development
 
-_**Please add to the above to if have any things to add.**_
+_**Please add to the above to if you have any things to add.**_
