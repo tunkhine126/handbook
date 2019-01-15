@@ -67,7 +67,7 @@ Morgan J Lopes
 ### Why New Story?
 The people & the purpose.
 
-In fact, [I wrote an entire blog post about it](https://medium.com/p/2cf70d852114/edit).
+In fact, [I wrote an entire blog post about it](https://medium.com/p/2cf70d852114).
 
 ### What excites you most about our vision?
 There are so many organizations out there trying to make an impact in the
