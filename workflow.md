@@ -11,7 +11,7 @@
  - Start Sprints on Tuesdays.
  - Deploy on Mondays.
  - Name branches appropriately.
- - [Keep your git history clean](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) (ie rebase often).
+ - <a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History" target="_blank">Keep your git history clean</a> (ie rebase often).
 
 
 ### The Don'ts
