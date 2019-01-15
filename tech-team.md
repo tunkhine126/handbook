@@ -7,7 +7,7 @@ _P.S. Feel free to maintain your own profile. It's part of your legacy at New St
 
 ---
 
-<img src='https://360kk73nf60j1amgkj11crnq-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/matthew-marshall-new-story-team.png' alt='Matthew Marshall' width='250'>
+<img src="./images/matthew.jpg" alt='Matthew Marshall' width='250'>
 
 ## Matthew Marshall
 **(2014-present)**  
@@ -18,7 +18,7 @@ _P.S. Feel free to maintain your own profile. It's part of your legacy at New St
 
 ---
 
-<img src='https://360kk73nf60j1amgkj11crnq-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/morgan-hover.png' alt='Morgan J Lopes' width='250'>
+<img src='./images/morgan.jpg' alt='Morgan J Lopes' width='250'>
 
 ## Morgan J Lopes
 **(2016-present)**  
@@ -40,7 +40,7 @@ Congratulations! Purpose filled work is a gift. Enjoy.
 
 We move quickly here because the work matters. Keep up. Every day, thousands of people are born into the population of 1.3 billion without proper housing. Each day, thousands die within that population from the abysmal conditions of survival mode. When the work seems tiresome, remember that it's not for you. It's for them.
 
-That being said, you'll have unbelieveable experiences here with remarkable people. Working alongside so many high-performing, passion team members will challenge and inspire you. When it does, tell someone. The energy, excitement, and support is a neccessary part of doing this work.
+That being said, you'll have unbelievable experiences here with remarkable people. Working alongside so many high-performing, passion team members will challenge and inspire you. When it does, tell someone. The energy, excitement, and support is a necessary part of doing this work.
 
 Lastly, push yourself. Our massive vision will require more from you than you can even imagine. You'll be expected to learn, grow, and challenge the status quo. Own your experience and dream bigger.
 
@@ -49,7 +49,7 @@ Morgan J Lopes
 
 ---
 
-<img src='https://360kk73nf60j1amgkj11crnq-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/geraldine-galue-new-story.png' alt='Geraldine Galue' width='250'>
+<img src='./images/geraldine.jpg' alt='Geraldine Galue' width='250'>
 
 ## Geraldine Galue
 **(2016-present)**  
@@ -60,7 +60,7 @@ Morgan J Lopes
 
 ---
 
-<img src='https://360kk73nf60j1amgkj11crnq-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/shane-headshot.png' alt='Shane Ardell' width='250'>
+<img src='./images/shane.jpg' alt='Shane Ardell' width='250'>
 
 ## Shane Ardell
 **(2018-present)**  
@@ -96,19 +96,35 @@ Raise/escalate issues early, while they're still small.
 Remember that every small achievement behind the computer screen makes a
 difference in the real world for real people, not to line someone's pockets.
 
+---
+
+<img src='./images/tim.jpg' alt='Tim Whitacre' width='250'>
 
 ## Tim Whitacre
 **(2018-present)**  
 ### Why New Story?
 
+Initially, I was drawn to New Story because of the cause but quickly fell in love with the team. This is a group of hard-working, people loving individuals that I consider my self very fortunate to work alongside.
+
 ### What excites you most about our vision?
+
+I have believed for a long time now, that technology is the solution to mankind's biggest problems. Global homelessness is no exception. At New Story, we get to come up with innovative ideas that will help meet one of the greatest needs and empower other organizations to do the same.
 
 ### Who has had the greatest impact on your career in technology? Why?
 
+When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/theironyard). Their leadership team ([Peter Barth](https://www.linkedin.com/in/peterbarth/), [Eric Dodds](https://ericdodds.com/), [Mason Stewart](http://masondesu.com/) and [John Saddington](https://john.do/)) have easily been some of the most influential people in my entire career. I learned that technology is accessible by so many and that anyone can use it to create meaningful solutions. 
+
 ### What would you say to our next hire? 
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
-[//]: # (### Why New Story?)
-[//]: # (### What excites you most about our vision?)
-[//]: # (### Who has had the greatest impacted your career in technology? Why?)
-[//]: # (### What would you say to our next hire? )
+- Welcome! This is going to be lots of fun.
+
+---
+
+<img src='./images/vi.jpg' alt='Vi Pham' width='250'>
+
+## Vi Pham
+**(2018-present)** 
+### Why New Story?
+### What excites you most about our vision?
+### Who has had the greatest impact on your career in technology? Why?
+### What would you say to our next hire? 
