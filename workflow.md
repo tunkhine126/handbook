@@ -2,7 +2,7 @@
 
 ### The Do's
 
- - Divide work to be done into Sprints.
+ - Divide work to be done into [Cycles]/Sprints.
  - Select [Sprint] length of either 1 or 2 weeks, max.
  - Define type of Sprint as either a [Feature Sprint] or a [Housekeeping Sprint].
  - Plan before each [Sprint].
@@ -11,6 +11,7 @@
  - Start Sprints on Tuesdays.
  - Deploy on Mondays.
  - Name branches appropriately.
+ - [Keep your git history clean](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) (ie rebase often).
 
 
 ### The Don'ts
@@ -41,6 +42,9 @@ Task Branch:    mjl/refactor-fundraising/public-campaign-view
 ```
 
 ---
+## Cycles
+TODO: Add in cycle workflow details here
+
 ## Sprints
 Influenced by [Scrum](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/ref=sr_1_2?s=books&ie=UTF8&qid=1523450369&sr=1-2), we work in Sprints. Whether a new product or an existing feature, the work gets divided into 1 or 2 week chunks based on the estimated complexity. Working in Sprints creates a natural start and stop point for planning and reflection.
 
@@ -101,6 +105,7 @@ There is a process for seeing a line of code from start to finish. Whether a con
    [Pull Request]: <#pull-requests>
    [Heroku]: <https://dashboard.heroku.com/teams/newstory/overview>
    [Branch]: <#branches>
+   [Cycles]: <#cycles>
    [Sprint]: <#sprints>
    [Feature Sprint]: <#feature-sprint>
    [Housekeeping Sprint]: <#housekeeping-sprint>
