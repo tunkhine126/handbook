@@ -14,6 +14,7 @@ If you're just joining us, [start here.]
 * [Welcome](/welcome.md)
 * [The Team](/tech-team.md)
 * [The Monolith](/the-monolith.md)
+* [The Housing Innovation Toolkit](/housing-innovation-toolkit.md)
 * [Workflow](/workflow.md)
 * [Resources](/resources.md)
 * [Our Principles](/principles.md)
