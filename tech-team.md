@@ -117,14 +117,3 @@ When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/
 ### What would you say to our next hire? 
 
 - Welcome! This is going to be lots of fun.
-
----
-
-<img src='./images/vi.jpg' alt='Vi Pham' width='250'>
-
-## Vi Pham
-**(2018-present)** 
-### Why New Story?
-### What excites you most about our vision?
-### Who has had the greatest impact on your career in technology? Why?
-### What would you say to our next hire? 
