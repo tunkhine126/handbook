@@ -54,9 +54,16 @@ Morgan J Lopes
 ## Geraldine Galue
 **(2016-present)**  
 ### Why New Story?
+I was born and raised in a developing country, therefore I understand the struggles that these families face day to day. When I discovered New Story and learned about how I could use my programming skills for good, I immediately knew that I had to be a part of it.
+
 ### What excites you most about our vision?
+What excites me the most about our vision is that we know that we can’t do it alone. Global homelessness is a 1 billion+ problem that is continuing to grow. We understand that in order to make an impact we have to double down, level up, and share all of our research with other organizations so that together we can build faster and better. It is incredibly humbling to know that you don’t have all of the answers, but that you are willing to research, learn, prove and share all of your findings in order to find solutions.
+
 ### Who has had the greatest impact on your career in technology? Why?
-### What would you say to our next hire? 
+My brother in law for encouraging me to join a coding bootcamp and Morgan Lopes for believing in me and realizing that New Story was the perfect fit for me!
+
+### What would you say to our next hire?
+Push yourself and ask questions. Your opinion and voice always matters at New Story.
 
 ---
 
