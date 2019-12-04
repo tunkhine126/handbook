@@ -124,3 +124,28 @@ When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/
 ### What would you say to our next hire? 
 
 - Welcome! This is going to be lots of fun.
+
+---
+
+<img src="./images/eddie.jpg" alt='Eddie Dozier' width='250'>
+
+## Eddie Dozier
+**(2019-present)**  
+### Why New Story?
+
+New Story had my attention when I learned more about its mission, and definitely the team!
+
+### What excites you most about our vision?
+
+The most exciting thing about the vision here at New Story is the multiplying effect we're building by using technology as our driving force.
+It may seem like an obvious way to tackle a global issue but so many non-profit organizations have yet to really use tech to power there mission!
+
+### Who has had the greatest impact on your career in technology? Why?
+One of my many mentors Dr. Paul Judge has been my greatest inspiration in tech because he's help redefine and shape Atlanta's tech scene,
+and he continues to promote diversity and entrepreneurship in the industry! 
+
+### What would you say to our next hire? 
+
+- Be bold and push the envelope in terms of development so that you can have the most impact with your work.
+- If you ever need help, you'll work with the most helpful people ever so don't be afriad to ask!
+- Buckle up, it's gonna be one heck of a ride!
