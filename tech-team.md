@@ -109,18 +109,40 @@ difference in the real world for real people, not to line someone's pockets.
 
 ## Tim Whitacre
 **(2018-present)**  
-### Why New Story?
 
+### Why New Story?
 Initially, I was drawn to New Story because of the cause but quickly fell in love with the team. This is a group of hard-working, people loving individuals that I consider my self very fortunate to work alongside.
 
 ### What excites you most about our vision?
-
 I have believed for a long time now, that technology is the solution to mankind's biggest problems. Global homelessness is no exception. At New Story, we get to come up with innovative ideas that will help meet one of the greatest needs and empower other organizations to do the same.
 
 ### Who has had the greatest impact on your career in technology? Why?
-
 When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/theironyard). Their leadership team ([Peter Barth](https://www.linkedin.com/in/peterbarth/), [Eric Dodds](https://ericdodds.com/), [Mason Stewart](http://masondesu.com/) and [John Saddington](https://john.do/)) have easily been some of the most influential people in my entire career. I learned that technology is accessible by so many and that anyone can use it to create meaningful solutions. 
+
+### What would you say to our next hire?
+- Welcome! This is going to be lots of fun.
+
+---
+
+<img src="./images/eddie.jpg" alt='Eddie Dozier' width='250'>
+
+## Eddie Dozier
+**(2019-present)**  
+### Why New Story?
+
+New Story had my attention when I learned more about its mission, and definitely the team!
+
+### What excites you most about our vision?
+
+The most exciting thing about the vision here at New Story is the multiplying effect we're building by using technology as our driving force.
+It may seem like an obvious way to tackle a global issue but so many non-profit organizations have yet to really use tech to power there mission!
+
+### Who has had the greatest impact on your career in technology? Why?
+One of my many mentors Dr. Paul Judge has been my greatest inspiration in tech because he's help redefine and shape Atlanta's tech scene,
+and he continues to promote diversity and entrepreneurship in the industry! 
 
 ### What would you say to our next hire? 
 
-- Welcome! This is going to be lots of fun.
+- Be bold and push the envelope in terms of development so that you can have the most impact with your work.
+- If you ever need help, you'll work with the most helpful people ever so don't be afriad to ask!
+- Buckle up, it's gonna be one heck of a ride!
