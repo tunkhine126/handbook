@@ -109,20 +109,17 @@ difference in the real world for real people, not to line someone's pockets.
 
 ## Tim Whitacre
 **(2018-present)**  
-### Why New Story?
 
+### Why New Story?
 Initially, I was drawn to New Story because of the cause but quickly fell in love with the team. This is a group of hard-working, people loving individuals that I consider my self very fortunate to work alongside.
 
 ### What excites you most about our vision?
-
 I have believed for a long time now, that technology is the solution to mankind's biggest problems. Global homelessness is no exception. At New Story, we get to come up with innovative ideas that will help meet one of the greatest needs and empower other organizations to do the same.
 
 ### Who has had the greatest impact on your career in technology? Why?
-
 When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/theironyard). Their leadership team ([Peter Barth](https://www.linkedin.com/in/peterbarth/), [Eric Dodds](https://ericdodds.com/), [Mason Stewart](http://masondesu.com/) and [John Saddington](https://john.do/)) have easily been some of the most influential people in my entire career. I learned that technology is accessible by so many and that anyone can use it to create meaningful solutions. 
 
-### What would you say to our next hire? 
-
+### What would you say to our next hire?
 - Welcome! This is going to be lots of fun.
 
 ---
