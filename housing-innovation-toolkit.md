@@ -11,7 +11,7 @@ Over time, the entire Monolith will be replaced and the New Story team will move
 
 - [HIT Server](https://github.com/newstorycharity/hit-server) (Rails/GraphQL API+)
 - [Measure - Mobile Survey Tool](https://github.com/newstorycharity/hit-mobile-measure) (React Native)
-- FUTURE: Measure - Web Survey Management (React Web)
+- [Measure - Web Survey Management](https://github.com/newstorycharity/hit-web-survey) (React Web)
 - FUTURE: Fund - Online Fundraising and Donor Experience (React Web)
 - FUTURE: Build - Web Construction Management (React Web)
 - FUTURE: Build - Mobile Construction Management Tool (React Native)
