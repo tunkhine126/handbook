@@ -1,6 +1,6 @@
 # Resources
 
-* [Asana](https://app.asana.com/0/142341005412809/) _Project Management._
+* [Jira](https://newstorycharity.atlassian.net/) _Project Management._
 * [Heroku](https://dashboard.heroku.com/teams/newstory/overview) _Web Application Host._
 * [AWS]() _Server-side file storage._
 * [Github](https://github.com/newstorycharity) _Git collaboration._
