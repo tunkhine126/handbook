@@ -5,6 +5,6 @@ Today, we have the Monolith. Time will tell how [majestic](https://m.signalvnois
 
 Eventually this level of visibility into philanthropy and global aid will be common place. Today, it solves a major painpoint. And while the Monolith will eventually be replaced with 'the next thing', the purpose should always be advancing: increased transparency and increased impact.
 
-The Monolith is a tool. Like all good tools it should be well maintained, sharpened, and replaced before it breaks.
+The Monolith is a tool. Like all good tools it should be well maintained, sharpened, and [replaced before it breaks](/housing-innovation-toolkit.md).
 
 _**Treat it with care and I trust it'll return the favor.**_
