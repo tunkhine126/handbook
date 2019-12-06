@@ -8,7 +8,7 @@
  - Plan before each [Sprint].
  - Own your [Pull Requests].
  - Reflect after each [Sprint].
- - Start Sprints on Tuesdays.
+ - Start Sprints on Wednesdays.
  - Deploy on Mondays.
  - Name branches appropriately.
  - <a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History" target="_blank">Keep your git history clean</a> (ie rebase often).
