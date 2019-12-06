@@ -12,9 +12,22 @@ _P.S. Feel free to maintain your own profile. It's part of your legacy at New St
 ## Matthew Marshall
 **(2014-present)**  
 ### Why New Story?
+I desire to serve those around me and while I can do that in my personal life, it's rare to get to say that about your career as well. I have to count my blessing constantly and pinch my self many times each week to reflect on how special this opportunity is.
+
 ### What excites you most about our vision?
+Gosh, so much. Mainly, working with fantastic people that you keep wanting to hang out with, a world-class culture, and the impact we can see daily in the lives of those we are so blessed to work with.
+
 ### Who has had the greatest impact on your career in technology? Why?
-### What would you say to our next hire? 
+_Morgan Lopes._ He's one of the sharpest minds around, but more importantly, he knows how to balance tradeoffs, see the forest for the trees, and make those around him sharper and more human :)
+
+_Sophia V Prater._ She's also one of the sharpest people I know! Her UX expertise shaped how I see the role of UX and UI and balancing cool products with useable products.
+
+_Basecamp._ It's hard to sum this one up, so I would suggest reading their book -> https://basecamp.com/books/getting-real (it's free!
+
+### What would you say to our next hire?
+There were a lot of great candidates, but you were ultimately selected for the following reasons: 1) you're a great human that displays our values and will make us even stronger 2) you're multi-talented 3) you're crazy hungry to impact the world with us. 
+
+We're so excited for your contribution because every day matters and your work matters! The world will be better than it was yesterday because of you, this team, and our mission! Let's go!
 
 ---
 
