@@ -159,3 +159,26 @@ and he continues to promote diversity and entrepreneurship in the industry!
 - Be bold and push the envelope in terms of development so that you can have the most impact with your work.
 - If you ever need help, you'll work with the most helpful people ever so don't be afriad to ask!
 - Buckle up, it's gonna be one heck of a ride!
+
+<img src="./images/tun.png" alt='Tun Khine' width='250'>
+
+## Tun Khine
+**(2019-present)**  
+### Why New Story?
+
+Being in service to others has been a cornerstone in my upbringing and career. When I first heard Tim speak at a meetup, I knew I had to meet him and learn more. That led to research and the deliberate intention to contribute to the growth and mission of New Story.  
+
+### What excites you most about our vision?
+
+One of the most exciting things about the vision is not just the desire to make impact but the real HUNGER to make a MASSIVE impact to the 1.3 billion without proper housing. 
+
+### Who has had the greatest impact on your career in technology? Why?
+
+_Mollie Khine._, my life parter - She taught me to never settle, go beyond, dream big and chase those dreams relentlessly. 
+
+_Britt Butler._ - An amazing human being who has a natural gift of an educator and desire to teach those next generation developers. 
+
+### What would you say to our next hire? 
+
+Yep, you just did that. You joined a team of amazing humans who won't settle for the status quo. Sound familiar?? Probably, because its a quality of yours as well. Get excited because you're about to impact and change the lives of those in need. 
+
