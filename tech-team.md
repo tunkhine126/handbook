@@ -160,6 +160,8 @@ and he continues to promote diversity and entrepreneurship in the industry!
 - If you ever need help, you'll work with the most helpful people ever so don't be afriad to ask!
 - Buckle up, it's gonna be one heck of a ride!
 
+---
+
 <img src="./images/tun.png" alt='Tun Khine' width='250'>
 
 ## Tun Khine
